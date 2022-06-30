@@ -1,3 +1,23 @@
 .App{
     background-color: aqua;
+    align-items: center;
+    justify-content: center;
+
+}
+.teclado {
+    background-color: gray;
+    max-width: 70%;    
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    height: 250px; 
+}
+.fila {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+   
 }
