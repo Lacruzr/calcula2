@@ -1,12 +1,13 @@
 
 .logoCont{
-    max-width: 100%;
+    width: 100%;
+    height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 20px;
+    margin: 8px;
 }
 
 .logo{
-    height: 50px; 
+    height: 40px; 
   }

@@ -9,34 +9,28 @@ function App() {
       <FreeCodeLogo />
       <div className='teclado'>
         <div className='fila'>
-          <Boton caracter = '7' />
-          <Boton caracter = '8' />
-          <Boton caracter = '9' />
-          <Boton caracter = '+' />
+          <Boton>7</Boton>
+          <Boton>8</Boton>
+          <Boton>9</Boton>
+          <Boton>+</Boton>
         </div>
         <div className='fila'>
-          <Boton caracter = '4' />
-          <Boton caracter = '5' />
-          <Boton caracter = '6' />
-          <Boton caracter = '-' />
+          <Boton >4</Boton>
+          <Boton >5</Boton>
+          <Boton >6</Boton>
+          <Boton >-</Boton> 
         </div>
         <div className='fila'>
-          <Boton caracter = '1' />
-          <Boton caracter = '2' />
-          <Boton caracter = '3' />
-          <Boton caracter = '*' />
+          <Boton >1</Boton>
+          <Boton >2</Boton>
+          <Boton >3</Boton>
+          <Boton >*</Boton>
         </div>
         <div className='fila'>
-          <Boton caracter = '0' />
-          <Boton caracter = '.' />
-          <Boton caracter = '=' />
-          <Boton caracter = '/' />
-        </div>
-        <div className='fila'>
-          <Boton caracter = '7' />
-          <Boton caracter = '8' />
-          <Boton caracter = '9' />
-          <Boton caracter = '+' />
+          <Boton >0</Boton>
+          <Boton >.</Boton>
+          <Boton >=</Boton>
+          <Boton >/</Boton>
         </div>
       </div>
     </div>
